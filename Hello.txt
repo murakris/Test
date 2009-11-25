@@ -4,3 +4,5 @@ Hello Git!
 11/25/2009
 
 new entry...
+
+checkin with author
